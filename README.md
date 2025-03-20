@@ -35,6 +35,6 @@ O programa deve:
 2. Clone este repositório ou baixe os arquivos.
 3. Execute os programas utilizando um terminal ou uma IDE de sua preferência:
    ```bash
-   python exercicio1.py
-   python exercicio2.py
+   python pescador.py
+   python tinta.py
    ```
